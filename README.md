@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tushar-2003
 - 👀 I’m interested in Web Devlopement, BlockChains,Data Science and more
-- 🌱 I’m currently following CS50x To get a fell of some major domains in cse
+- 🌱 I’m currently Learning Web Devlopment.
 - 💞️ Would love to collaborate
 - 📫 Socials:
         Twitter: @Tushar1Gupta
