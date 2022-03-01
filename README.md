@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tushar-2003
-- 👀 I’m interested in Web Devlopement, BlockChains,Data Science and more
-- 🌱 I’m currently Learning Web Devlopment.
-- 💞️ Would love to collaborate
+- 👀 I’m interested in Web Devlopement, BlockChains,Cloud and more.
+- 🌱 I’m currently Learning Web Devlopment & C++.
+- 💞️ Would love to collaborate on projects and Network.
 - 📫 Socials:
         Twitter: @Tushar1Gupta
         LinkedIn: https://bit.ly/3aSuM93
